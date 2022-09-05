@@ -1,4 +1,4 @@
-APP DEMO LINK - https://stanis-tsv.github.io/resume-maker-app-vue/
+DEMO LINK - https://stanis-tsv.github.io/resume-maker-app-vue/
 
 Vue.js app for creating a web CV, and fetching data (comments)
 
