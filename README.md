@@ -1,5 +1,9 @@
 DEMO LINK - https://stanis-tsv.github.io/resume-maker-app-vue/
 
+Vue.js додаток для створення веб-резюме та отримання даних (коментарів)
+
+-----
+
 Vue.js app for creating a web CV, and fetching data (comments)
 
 How it works:
